@@ -1,0 +1,18 @@
+# Node / frontend
+node_modules/
+dist/
+.vite/
+.env.local
+.env
+
+# .NET
+bin/
+obj/
+*.user
+*.vs/
+*.db
+
+# Misc
+.vscode/
+.idea/
+.DS_Store
